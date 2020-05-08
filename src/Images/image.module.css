@@ -1,0 +1,9 @@
+.image{
+    margin: 30px;
+}
+@media only screen and (max-width: 770px) {
+    .image {
+      width: 90%;
+      margin-bottom: -10px;
+    }
+  }
